@@ -1,0 +1,26 @@
+body {
+    background-color: cornflowerblue;
+    background-size: auto;
+    font-family: Arial;
+    height: 100vh;
+}
+
+.menu {
+    background-color: azure;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+site-title,
+.site-subtitle {
+    
+    color: black
+}
+
