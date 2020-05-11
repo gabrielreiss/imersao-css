@@ -1,8 +1,10 @@
 body {
     background-color: cornflowerblue;
     background-image:   linear-gradient( rgba(255,255,255,.7) 0%,rgba(255,255,255,.7) 100%),
-                        url(https://img.wallpapersafari.com/desktop/1920/1080/43/24/KpNXGt.jpg);
-    background-size: auto;
+                        url('./../img/background.jpg');
+    background-size: contain;
+    background-repeat: initial;
+    background-position: center;
     font-family: Arial;
     height: 100vh;
 }
