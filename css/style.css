@@ -20,6 +20,7 @@ body {
 .menu ul {
     display: flex;
     justify-content: space-around;
+    background-color: whitesmoke;
 }
 
 .site-title {
